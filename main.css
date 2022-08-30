@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 0;
-    background: #f2f6e9;
+    background: #383936;
 }
 .navbar {
     background:#18248c;
@@ -19,11 +19,4 @@ body {
 }
 .navbar-collapse {
     justify-content: flex-end;
-}
-
-.header {
-    background-image: url('images/header-background.jpg');
-    background-size: cover;
-    background-position: center;
-    position: relative;
 }
